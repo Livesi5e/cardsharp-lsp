@@ -1,0 +1,15 @@
+{
+  "name": "cardsharp-lsp",
+  "description": "lsp for language cardsharp",
+  "version": "1.0.0",
+  "author": "Monument Games",
+  "license": "MIT",
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "REPLACE_ME"
+  },
+  "dependencies": {}
+}
